@@ -21,16 +21,3 @@ Student student = new Student()
 Console.WriteLine($"FullName: {student.FullName} - GroupNo: {student.GroupNo}");
 
 
-
-
-
-
-
-
-
-
-
-
-//string text = "Farid Abdullayev";
-//var text2 = text.Substring(0,text.IndexOf(" ")+);
-//Console.WriteLine(text2);
